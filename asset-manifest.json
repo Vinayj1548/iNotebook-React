@@ -1,7 +1,7 @@
 {
   "main.css": "/iNotebook-React/static/css/main.eae9b873.chunk.css",
-  "main.js": "/iNotebook-React/static/js/main.3066049e.chunk.js",
-  "main.js.map": "/iNotebook-React/static/js/main.3066049e.chunk.js.map",
+  "main.js": "/iNotebook-React/static/js/main.73341162.chunk.js",
+  "main.js.map": "/iNotebook-React/static/js/main.73341162.chunk.js.map",
   "static/js/1.1b3f48c6.chunk.js": "/iNotebook-React/static/js/1.1b3f48c6.chunk.js",
   "static/js/1.1b3f48c6.chunk.js.map": "/iNotebook-React/static/js/1.1b3f48c6.chunk.js.map",
   "static/js/2.cb2bd676.chunk.js": "/iNotebook-React/static/js/2.cb2bd676.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/iNotebook-React/static/js/runtime~main.0decb955.js.map",
   "static/css/main.eae9b873.chunk.css.map": "/iNotebook-React/static/css/main.eae9b873.chunk.css.map",
   "index.html": "/iNotebook-React/index.html",
-  "precache-manifest.52a41250e42232a7ecfd8aeadd11e6d2.js": "/iNotebook-React/precache-manifest.52a41250e42232a7ecfd8aeadd11e6d2.js",
+  "precache-manifest.21834b70b5d38864f53c7996ade5b468.js": "/iNotebook-React/precache-manifest.21834b70b5d38864f53c7996ade5b468.js",
   "service-worker.js": "/iNotebook-React/service-worker.js"
 }
