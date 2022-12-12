@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "487d4946bd72cb539943",
+    "revision": "fb21d9b89e28b94d9b2e",
     "url": "/iNotebook-React/static/css/main.eae9b873.chunk.css"
   },
   {
-    "revision": "487d4946bd72cb539943",
-    "url": "/iNotebook-React/static/js/main.487d4946.chunk.js"
+    "revision": "fb21d9b89e28b94d9b2e",
+    "url": "/iNotebook-React/static/js/main.fb21d9b8.chunk.js"
   },
   {
     "revision": "1b3f48c6de62d66542ce",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/iNotebook-React/static/js/runtime~main.0decb955.js"
   },
   {
-    "revision": "76595ccc7c26ddd36b5f985e4882d833",
+    "revision": "86fa81d761067d5959f4c8615924c154",
     "url": "/iNotebook-React/index.html"
   }
 ];
