@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/iNotebook-React/precache-manifest.18267107f3274750378626f36e16705a.js"
+  "/iNotebook-React/precache-manifest.4f4f6dfc7b212b5f3b141696eb125126.js"
 );
 
 workbox.clientsClaim();
